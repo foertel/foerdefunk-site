@@ -1,6 +1,19 @@
 site-fffl
 =========
 
+Hier ensteht die neue Site für das fffl die von dem Chaostreff gepflegt wird.
+
+
+
+
+
+
+
+
+
+
+
+
 This repository contains the site.conf and other configuration files for the Gluon-Firmware. For further Information (in German) please go to http://wiki.freifunk-flensburg.de/index.php?title=Gluon and read the article.
 
 Changelog for Stable-Version "S-1.1"
