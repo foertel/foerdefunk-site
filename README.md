@@ -1,4 +1,4 @@
-site-cffl
+site-foerdefunk
 =========
 
 Hier ensteht die neue Site für das cffl die von dem Chaostreff-Flensburg (http://chaostreff-flensburg.de) gepflegt wird.
