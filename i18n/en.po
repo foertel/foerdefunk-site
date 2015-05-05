@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"PO-Revision-Date: 2015-05-01 10:58-0400\n"
+"Last-Translator:  <felix@wlan-fabrik.de>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "gluon-config-mode:welcome"
+msgstr "Willkommen zum Einrichtungsassistenten f&uuml;r deine neue Foerdefunk-Boje. F&uuml;lle das folgende Formular deinen Vorstellungen entsprechend aus und sende es ab."
+
+msgid "gluon-config-mode:pubkey"
+msgstr "Das ist der Schl&uuml;ssel deiner Boje zur Information. Du kannst deine Boje ohne Registrierung direkt benutzen."
+
+msgid "gluon-config-mode:reboot"
+msgstr "<p>
+Deine Boje startet gerade neu und wird anschlie&szlig;end versuchen,
+sich mit anderen Bojen in der N&auml;he zu verbinden.
+Weitere Informationen zu Foerdefunk findest du auf
+<a href="http://foerdefunk.de">unserer Webseite</a>.
+</p>
+<p>
+Viel Spa&szlig; mit deiner Boje! Und vielen Dank!
+</p>"
