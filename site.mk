@@ -31,7 +31,8 @@ GLUON_SITE_PACKAGES := \
 	kmod-usb-net-asix \
 	kmod-r8169 \
 	kmod-usb-net-rtl8150 \
-	kmod-usb-net-rtl8152
+	kmod-usb-net-rtl8152 \
+	kmod-usb-net-mcs7830
 
 DEFAULT_GLUON_RELEASE := beta-2016.1.0-0
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
