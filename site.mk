@@ -23,12 +23,17 @@ GLUON_SITE_PACKAGES := \
 	gluon-authorized-keys \
 	iwinfo \
 	iptables \
-	haveged
+	haveged \
+	kmod-usb-core \
+	kmod-usb2 \
+	kmod-usb-hid \
+	kmod-usb-net \
+	kmod-usb-net-asix
 
-DEFAULT_GLUON_RELEASE := stable-2015.1.0-0
+DEFAULT_GLUON_RELEASE := beta-2016.1.0-0
 GLUON_RELEASE ?= $(DEFAULT_GLUON_RELEASE)
 
 GLUON_PRIORITY ?= 0
 
-GLUON_BRANCH ?= stable
+GLUON_BRANCH ?= beta
 GLUON_LANGS ?= de en
